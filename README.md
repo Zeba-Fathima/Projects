@@ -1,6 +1,8 @@
 Hello Everyone!!
+
 I am Zeba Fathima
 I am currently a computer Science Student
+
 This repository basically contains the projects that I have done 
 
 So the projects are:
