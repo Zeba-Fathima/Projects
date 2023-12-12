@@ -152,7 +152,7 @@ class CriminalRecordManager {
     }
 
 }
-class Project {
+class CrimeRecordManagement{
     public static void main(String[] args) {
         CriminalRecordManager manager = new CriminalRecordManager();
 
