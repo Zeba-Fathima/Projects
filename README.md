@@ -13,4 +13,4 @@ So the projects are:
 
 3.ADS- Downloaded the map for a small area using OSMnx, and write your custom formula to find a path between two nodes and plot it.(Yet to do - optimise problem, implementing querying to find the nearest hospital to your home, and calculating the time take to get there)
 
-4.Travel Website - So basically people find difficulty in finding the places to visit,hotels they can stay at that places,so my concept is to develop a website which can provide with both the details in one website.
+4.Travel Website - So basically people find difficulty in finding the places to visit,hotels they can stay at that places,so my concept is to develop a website which can provide with both the details in one website.(Still working )
