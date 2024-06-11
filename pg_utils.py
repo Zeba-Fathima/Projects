@@ -5,7 +5,7 @@ def open_db():
         port='5433',
         database="dbms",
         user="postgres",
-        password="Nawaz@14")
+        password="")
     cur = con.cursor()
     return con, cur
 
@@ -16,7 +16,7 @@ def open_rvuniv():
         port='5433',
         database="RVUniv",
         user="postgres",
-        password="Nawaz@14")
+        password="")
     cur = con.cursor()
     return con, cur
 
@@ -27,7 +27,7 @@ def open_lib():
         port='5433',
         database="Library",
         user="postgres",
-        password="Nawaz@14")
+        password="")
     cur = con.cursor()
     return con, cur
 
